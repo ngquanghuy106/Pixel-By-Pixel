@@ -1,0 +1,40 @@
+# THE BOOK OF RESPECT
+Document Version: v0.1
+
+=============================
+
+This document outlines the sacred criteria, expectations, and threats tied to inclusion in `respect.txt`.
+
+1. Inclusion is earned, not claimed. You do not "add" yourself — you are chosen.
+2. Completion of The W.T.F. Developer Challenge without breaking a single rule qualifies you for review.
+3. Submissions must include:
+   - One (1) cursed pixel creation
+   - Source code (must cause emotional damage)
+   - A personal testimony describing your descent into madness
+
+4. All submissions are judged by the original creator or whatever entity is brave enough to maintain this list.
+
+5. Violators of the rules — especially those who:
+   - Use `import pygame`
+   - Automate rendering
+   - Touch built-in drawing tools
+   shall be cast into `disrespect.txt` permanently.
+
+6. Any individual caught forging respect will be:
+   - Exiled from the devverse
+   - Marked with shame
+   - Possibly memed in future updates
+
+7. If your name disappears from this file, you are to remain silent. Forever.
+
+8. **ONLY the original creator ("@NgQuangHuy106") has the absolute authority to add, remove, reject, or erase anyone from this file — at any time, for any reason.**
+   Arguing this rule results in immediate disqualification and eternal invisibility.
+
+=============================
+
+RESPECTED DEVELOPERS:
+(None yet.)
+
+=============================
+
+To be respected, you must first be broken.

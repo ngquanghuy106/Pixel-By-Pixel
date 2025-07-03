@@ -1,0 +1,15 @@
+You may wonder why there's no example.py.
+
+Because I made PAIN, not comfort.
+
+This isn’t a game engine.
+It’s a canvas — but one where you draw every pixel by hand.
+Like a caveman with math knowledge and depression.
+
+This module isn’t made to “help” your project.
+It exists to make you suffer, and if you survive — you earn respect.
+
+You’re not supposed to have fun here.
+You’re supposed to build something from scratch and hate yourself a little less after.
+
+Good luck.

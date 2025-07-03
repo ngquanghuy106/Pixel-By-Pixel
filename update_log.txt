@@ -1,0 +1,13 @@
+# Update log
+
+=============================
+
+v0.1b - The challenge begin [3/7/2025]
+- Added:
+    - Main module (pixel_by_pixel)
+    - A tons of .txt, .md, LICENSE
+
+=============================
+
+If you have any ideas to make this even more CHAOTIC, or you just wanna add something, contact me.
+I'll see and consider adding it...

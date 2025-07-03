@@ -1,0 +1,45 @@
+# CREDITS
+Document Version: v0.1
+
+=============================
+
+This document serves to acknowledge the original creator, contributors, and intellectual origin of the module known as “pixel_by_pixel.py” (hereafter referred to as “The Module”).
+
+=============================
+
+SECTION I — ORIGINAL AUTHORSHIP:
+
+The Module was conceptualized, developed, and authored solely by:
+
+    Nguyễn Quang Huy (a.k.a @NgQuangHuy106)
+
+All intellectual property rights to The Module, including its structure, function, and design principles, are held by the aforementioned Developer.
+
+=============================
+
+SECTION II — DEVELOPMENT CONTEXT:
+
+The Module was developed with the intent to provide a minimalist, pixel-level rendering environment for Python developers. It does not constitute a game engine, framework, or toolkit in the conventional sense.
+
+The Module is distributed as-is, for educational, experimental, and chaotic creative purposes.
+
+=============================
+
+SECTION III — ATTRIBUTION REQUIREMENTS:
+
+In accordance with distribution terms:
+- Use of The Module in any public, commercial, or published project requires visible credit to the Original Developer.
+- Redistribution of The Module, modified or unmodified, without explicit attribution is prohibited.
+- Selling The Module, in part or in full, is strictly forbidden under all circumstances.
+
+=============================
+
+SECTION III — MODIFICATION POLICY:
+
+Modification of The Module is not authorized without prior written consent of the Original Developer.
+
+Community members may submit suggestions for updates via direct contact. Upon approval, such contributors may be listed in `respect.txt` for formal recognition.
+
+=============================
+
+END OF DOCUMENT.

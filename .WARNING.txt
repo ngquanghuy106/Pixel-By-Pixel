@@ -1,0 +1,34 @@
+# WARNING - v0.1
+
+=============================
+
+This module is NOT a game engine.
+
+* It is:
+- A mental workout
+- A rage amplifier
+- A pixel-by-pixel punishment system
+
+=============================
+
+* Do NOT use this module if:
+- You value your time
+- You want productivity
+- You enjoy clean, simple code
+- You have blood pressure issues
+
+* Only use this module if:
+- You love chaos
+- You hate yourself (a little)
+- You want to prove you’re a real dev
+- You think making a circle manually is fun
+
+=============================
+
+* Side effects may include:
+- Eye strain
+- Losing friends
+- Uncontrollable screaming
+- Talking to your monitor at 3AM
+
+You’ve been warned.

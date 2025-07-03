@@ -1,0 +1,50 @@
+# THE W.T.F. DEVELOPER CHALLENGE
+Document Version: v0.1
+
+=============================
+
+This document outlines the official participation requirements for any individual (“Developer”) wishing to engage in development activities utilizing the `pixel_by_pixel.py` module (“The Module”).
+
+Participation in the W.T.F. Developer Challenge (“The Challenge”) implies unconditional agreement to the terms listed below.
+
+=============================
+
+SECTION I — PRIMARY RULES:
+
+1. The Developer is permitted to import a single module only:
+       import pixel_by_pixel as wtf
+
+2. The importation or use of any additional Python modules — including but not limited to `pygame`, `time`, `random`, `math`, `os`, or `json` — is strictly prohibited.
+
+3. All graphical output must be rendered exclusively via the function:
+       wtf.draw(screen, position, color)
+
+4. The Developer is prohibited from utilizing:
+   - Pre-rendered assets
+   - Spritesheets
+   - Images
+   - Built-in shape or text rendering tools
+   - Asset loaders of any kind
+
+5. The Developer assumes full responsibility for constructing all desired visuals manually, at a per-pixel level, during runtime.
+
+6. Any circumvention, tampering, or automation of the above requirements shall be deemed a breach of challenge protocol, resulting in disqualification, removal from `respect.txt`, and possible eternal mockery.
+
+=============================
+
+SECTION II — DISCLAIMER:
+
+Participation in The Challenge may result in:
+- Mental fatigue
+- Physical exhaustion
+- Existential dread
+- Heightened respect among masochistic developers
+
+The Module is provided “as-is” without warranty or guarantee of sanity.
+
+=============================
+
+By proceeding, the Developer accepts full responsibility for any suffering, breakthroughs, or legendary accomplishments that may occur.
+
+Good luck, contestant.
+You were warned.

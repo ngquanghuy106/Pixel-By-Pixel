@@ -1,0 +1,83 @@
+# Documentation - v0.1
+
+=============================
+
+So you opened the folder. You saw the rules. You stayed.
+
+Respect.
+
+This file is here to prevent you from suffering more than necessary.
+
+=============================
+
+* All functions:
+We have: "import pixel_by_pixel_v01b as wtf"
+
+- wtf.init(width, height):
+    - Function to create a screen
+    - width, height: Understand it by yourself. If don't, open a dictionary
+
+- wtf.caption(text):
+    - Function to set caption for your game
+    - text: Your wanted caption is put here
+
+- wtf.draw(screen, pos, color):
+    - The MAIN core, draw EVERY. SINGLE. PIXEL
+    - screen: Which surface to draw
+    - pos: Where to draw on that surface
+    - color: Choose color for your pixel (Yeah I really meant it)
+
+- wtf.detect_x():
+    - If user press X on the top-right window, wtf.status = False
+    - This give you choices to shut the game immediately or asking something like: "Are you sure you wanna quit?"
+
+- wtf.exit():
+    - As the name, this function Alt+F4 your game
+
+- wtf.flip():
+    - Update the WHOLE window into new frame
+
+- wtf.tick(fps):
+    - Set limit for your game
+    - fps: Put your wanted fps limit number here (You can put 1 in here, because... why not?)
+
+- wtf.mouse_pos():
+    - Returns something like: (x, y): Represent the current mouse's position
+
+- wtf.mouse_click():
+    - Returns something like: (True, False, False):
+        - Represent the current state of mouse buttons in this list: (Left, Middle, Right)
+        - True mean is being held down, False mean the opposite
+
+- wtf.key_down():
+    - Returns a tuple packed with a SUPER long list of booleans
+        - Each index in the list matches a specific key on the keyboard
+        - `True` means that key is being held down
+        - `False` means the key is not pressed
+        - You’ll need to compare against `pg.K_*` constants to know which key is which:
+            - Example:
+                keys = wtf.key_down()
+                if keys[pg.K_SPACE]:
+                    print("Space is being held down. Execute jumping()")
+
+- wtf.rand(min, max):
+    - Make random numbers
+    - min, max: Range of random
+
+- wtf.load_sound(path):
+    - Load your effect sound
+    - path: Enter your sound's name OR paste your sound's path here
+
+- wtf.play_sound(sound):
+    - Play sound you loaded before
+    - sound: The sound's name you setup before
+
+wtf.get_time():
+    - Returns the number of seconds since January 1st 1970 (Yeah your eyes ain't deceive you)
+
+=============================
+
+Still here?
+
+You're one of us now.
+Good luck, pixel warrior.
