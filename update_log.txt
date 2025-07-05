@@ -2,9 +2,9 @@
 
 =============================
 
-v0.1b - The challenge begin [3/7/2025]
+v0.1b - The challenge begin [2025-07-03]
 - Added:
-    - Main module (pixel_by_pixel)
+    - Main module (pixel_by_pixel.py)
     - A tons of .txt, .md, LICENSE
 
 =============================
